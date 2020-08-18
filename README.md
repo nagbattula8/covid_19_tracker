@@ -1,5 +1,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+This is a live covid 19 situation tracker which gives us the real-time information about the infected, recovered and death cases of covid 19.
+
+Live demo: https://5f3b3666cc6262b94c8950ec--fervent-wing-6851af.netlify.app/
+
 ## Available Scripts
 
 In the project directory, you can run:
